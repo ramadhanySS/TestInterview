@@ -1,0 +1,39 @@
+.table {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.containerContent {
+    background: gainsboro;
+    margin: 40px;
+}
+
+.containerContent h1 {
+    margin: 12px;
+}
+
+.containerContent h3 {
+    margin: 12px;
+}
+
+.Sending {
+    background: gray;
+    margin: 20px;
+}
+
+.form {
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.data {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+.data input {
+    width: 300px;
+    margin: 0 8px;
+}

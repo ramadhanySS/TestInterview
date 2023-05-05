@@ -1,0 +1,23 @@
+.containers {
+    background: gainsboro;
+    width: 400px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.containerChoice {
+    display: flex;
+    justify-content: space-between;
+}
+
+.containerChoice p {
+    margin: 17px;
+}
+
+.job {
+    background: orange;
+    height: 40px;
+    width: 70px;
+    margin: 10px;
+    border-radius: 10px;
+}
